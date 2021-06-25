@@ -25,8 +25,8 @@ cd ../../
 ```
 
 ## Inference with our pre-trained models
-1. Download [our pre-trained models](https://drive.google.com/file/d/13MSBGQgaqREq6prmaZxT4uTYmsn2-RRq/view?usp=sharing). 
-2. Put them in the checkpoints directory. 
+1. Download and decompress [our pre-trained models](https://drive.google.com/file/d/13MSBGQgaqREq6prmaZxT4uTYmsn2-RRq/view?usp=sharing). 
+2. Make a "checkpoints" directory in the parent directory and put the decompressed "ade20k", "deepfashion", and "gta5" directories in the "checkpoints" directory. 
 3. Run the following commands for each dataset:
 
 - ADE20K
