@@ -13,7 +13,7 @@ Yuki Endo and Yoshihiro Kanamori: "Diversifying Semantic Image Synthesis and Edi
 
 ## Prerequisites  
 1. Python3
-2. PyTorch
+2. PyTorch (>=1.2.0)
 
 ## Preparation
 This code also requires the Synchronized-BatchNorm-PyTorch rep.
