@@ -1,5 +1,5 @@
 # Diversifying Semantic Image Synthesis and Editing via Class- and Layer-wise VAEs
-
+<a href="https://arxiv.org/abs/2106.13416"><img src="https://img.shields.io/badge/arXiv-2106.13416-b31b1b.svg"></a>
 
 <p align="center">
 <img src="docs/teaser.jpg" width="800px"/>
@@ -9,7 +9,7 @@ Results of multimodal semantic image synthesis and editing using our method. Our
 
 This code is an implementation of the following paper: 
 
-Yuki Endo and Yoshihiro Kanamori: "Diversifying Semantic Image Synthesis and Editing via Class- and Layer-wise VAEs," Computer Graphics Forum (Proc. of Pacific Graphics 2020), 2020. [[Project](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/clVAE/ )][[PDF](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/clVAE/endo_pg20.pdf)(10MB)][[Supp](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/clVAE/supplementary_materials.pdf)(183MB)]
+Yuki Endo and Yoshihiro Kanamori: "Diversifying Semantic Image Synthesis and Editing via Class- and Layer-wise VAEs," Computer Graphics Forum (Proc. of Pacific Graphics 2020), 2020. [[Project](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/clVAE/)][[PDF](https://arxiv.org/abs/2106.13416)][[Supp](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/clVAE/supplementary_materials.pdf)(183MB)]
 
 ## Prerequisites  
 1. Python3
